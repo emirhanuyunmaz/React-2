@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Emir",
+      "id": "d3ac"
+    },
+    {
+      "id": "689c",
+      "name": "Louie50"
+    }
+  ],
+  "albums": [
+    {
+      "id": "2ec3",
+      "albumList": "Wendell_Mills",
+      "userID": "d3ac"
+    },
+    {
+      "id": "d9fe",
+      "albumList": "Olen25",
+      "userID": "d3ac"
+    },
+    {
+      "id": "6cea",
+      "name": "Aubree_Runte",
+      "userID": "d3ac"
+    }
+  ],
+  "photos": []
+}

@@ -1,0 +1,39 @@
+{
+    "courses" : [
+        {
+            "id":0,
+            "title":"HTML",
+            "description":"HTML Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quas ea nostrum veritatis. Neque alias, est veniam doloribus iste ipsam voluptates vitae perspiciatis. Adipisci quas provident dolores dignissimos saepe ullam.",
+            "price":0
+        }
+        ,
+        {
+            "id":1,
+            "title":"CSS",
+            "description":"CSS Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quas ea nostrum veritatis. Neque alias, est veniam doloribus iste ipsam voluptates vitae perspiciatis. Adipisci quas provident dolores dignissimos saepe ullam.",
+            "price":20
+        }
+        ,
+        {
+            "id":2,
+            "title":"Bootstrap",
+            "description":"Bootstrap Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quas ea nostrum veritatis. Neque alias, est veniam doloribus iste ipsam voluptates vitae perspiciatis. Adipisci quas provident dolores dignissimos saepe ullam.",
+            "price":12
+        }
+        ,
+        {
+            "id":3,
+            "title":"Tailwindcss",
+            "description":"Tailwindcss Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quas ea nostrum veritatis. Neque alias, est veniam doloribus iste ipsam voluptates vitae perspiciatis. Adipisci quas provident dolores dignissimos saepe ullam.",
+            "price":22
+        }
+        ,
+        {
+            "id":4,
+            "title":"Javascript",
+            "description":"Javascript Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quas ea nostrum veritatis. Neque alias, est veniam doloribus iste ipsam voluptates vitae perspiciatis. Adipisci quas provident dolores dignissimos saepe ullam.",
+            "price":30
+        }       
+
+    ]
+}
